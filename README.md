@@ -10,7 +10,7 @@ This is the source code for my personal portfolio website. The site showcases my
 - [Contact](#contact)
 
 ## Demo
-You can check out the live demo of my portfolio here: [Live Demo Link](https://singhiswriting.github.io/portfolio-abhishek-singh/)
+You can check out the live demo of my portfolio here: [Live Demo Link](https://portfolio-abhishek-singh-plqjincd2.vercel.app/)
 
 ## Features
 - **Mobile Responsive**: Adapts to different screen sizes with a clean, user-friendly interface.
