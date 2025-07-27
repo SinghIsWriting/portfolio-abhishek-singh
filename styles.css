@@ -522,7 +522,7 @@ section {
 }
 .live:hover{
   border: none;
-  box-shadow: 0 4px 6px rgba(255, 0, 0, 0.5);
+  box-shadow: 0 4px 6px var(--primary-color);
 }
 
 /* Experience Section */
