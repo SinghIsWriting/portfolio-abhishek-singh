@@ -680,6 +680,10 @@ footer {
   color: white;
 }
 
+.emoji-icon {
+  filter: grayscale(100%);
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   .nav-content {
